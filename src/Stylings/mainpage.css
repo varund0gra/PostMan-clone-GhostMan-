@@ -1,0 +1,23 @@
+.Gost_img{
+    width: 200px;
+}
+#buttonopen{
+  font-weight: 900;
+}
+#navbar{
+  width: 500px;
+  margin: 10px;
+}
+.url-label{
+  font-size: 32px;
+  font-weight: 700;
+  margin-right: 20px;
+  color: grey;
+}
+.url-label1{
+  font-size: 32px;
+  font-weight: 700;
+  margin-right: 20px;
+  margin-top: 20px;
+  color: grey;
+}
